@@ -7,7 +7,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-khushikulkarni--tech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khushikulkarni-tech)
-![Profile Views](https://img.shields.io/badge/Focus-Data%20%7C%20AI%20%7C%20Cloud-0d1117?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khushi%20Kulkarni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-kulkarni-48b7a0379/)
 
 <br/>
 
@@ -38,168 +38,102 @@ Data-focused engineer working across **Python, SQL, and cloud-based data pipelin
 
 **Languages & Data Fundamentals**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-333333?style=flat-square)
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-333333?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-4B5563?style=for-the-badge)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-4B5563?style=for-the-badge)
 
 **Data Engineering & Analytics**
 
-![ETL](https://img.shields.io/badge/ETL-0f172a?style=flat-square)
-![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-0f172a?style=flat-square)
-![Data Ingestion](https://img.shields.io/badge/Data%20Ingestion-0f172a?style=flat-square)
-![Data Transformation](https://img.shields.io/badge/Data%20Transformation-0f172a?style=flat-square)
-![Data Validation](https://img.shields.io/badge/Data%20Validation-0f172a?style=flat-square)
-![Data Modelling](https://img.shields.io/badge/Data%20Modelling-0f172a?style=flat-square)
-![Data Quality](https://img.shields.io/badge/Data%20Quality-0f172a?style=flat-square)
-![Data Integration](https://img.shields.io/badge/Data%20Integration-0f172a?style=flat-square)
-![Performance Optimization](https://img.shields.io/badge/Performance%20Optimization-0f172a?style=flat-square)
+![ETL](https://img.shields.io/badge/ETL-1E3A8A?style=for-the-badge)
+![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-1E3A8A?style=for-the-badge)
+![Data Ingestion](https://img.shields.io/badge/Data%20Ingestion-1E3A8A?style=for-the-badge)
+![Data Transformation](https://img.shields.io/badge/Data%20Transformation-1E3A8A?style=for-the-badge)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-1E3A8A?style=for-the-badge)
+![Data Normalization](https://img.shields.io/badge/Data%20Normalization-1E3A8A?style=for-the-badge)
+![Data Validation](https://img.shields.io/badge/Data%20Validation-1E3A8A?style=for-the-badge)
+![Data Quality](https://img.shields.io/badge/Data%20Quality-1E3A8A?style=for-the-badge)
+![Data Modelling](https://img.shields.io/badge/Data%20Modelling-1E3A8A?style=for-the-badge)
+![Data Integration](https://img.shields.io/badge/Data%20Integration-1E3A8A?style=for-the-badge)
+![Performance Optimization](https://img.shields.io/badge/Performance%20Optimization-1E3A8A?style=for-the-badge)
 
 **BI & Visualization**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Dashboard Design](https://img.shields.io/badge/Dashboard%20Design-333333?style=flat-square)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-333333?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Dashboard Design](https://img.shields.io/badge/Dashboard%20Design-4B5563?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-4B5563?style=for-the-badge)
+![Reporting](https://img.shields.io/badge/Reporting-4B5563?style=for-the-badge)
 
-**Databases & Backend**
+**Databases, Backend & APIs**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge)
+![API Development](https://img.shields.io/badge/API%20Development-005571?style=for-the-badge)
+![CRUD](https://img.shields.io/badge/CRUD-005571?style=for-the-badge)
 
 **Machine Learning & Computer Vision**
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-333333?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-333333?style=flat-square)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=flat-square)
-![DeepSORT](https://img.shields.io/badge/DeepSORT-111111?style=flat-square)
-![LSTM](https://img.shields.io/badge/LSTM-111111?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4B5563?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-4B5563?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-4B5563?style=for-the-badge)
+![Classification](https://img.shields.io/badge/Classification-4B5563?style=for-the-badge)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-4B5563?style=for-the-badge)
+![Error Analysis](https://img.shields.io/badge/Error%20Analysis-4B5563?style=for-the-badge)
+![Model Integration](https://img.shields.io/badge/Model%20Integration-4B5563?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge)
+![DeepSORT](https://img.shields.io/badge/DeepSORT-111827?style=for-the-badge)
+![LSTM](https://img.shields.io/badge/LSTM-111827?style=for-the-badge)
 
-**Cloud & Tools**
+**Cloud**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge)
+![S3](https://img.shields.io/badge/S3-FF9900?style=for-the-badge)
+![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory%20(Exposure)-0078D4?style=for-the-badge)
+![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake%20(Exposure)-0078D4?style=for-the-badge)
+
+**Tools & Web**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript%20(Basics)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=2&section=header" width="100%"/>
 
 ## AI / NLP / Generative AI
 
-> Skills below are labeled by depth of experience — hands-on where project-backed, foundational where still developing.
+> Skills below are labeled by depth of experience — **Project Experience** where hands-on and repo-backed, **Foundational / Learning / Exposure** where still developing.
 
-**Applied (Project Experience)**
-![OCR](https://img.shields.io/badge/OCR-Tesseract-6E40C9?style=flat-square)
-![Document Intelligence](https://img.shields.io/badge/Document%20Intelligence-6E40C9?style=flat-square)
-![Information Extraction](https://img.shields.io/badge/Information%20Extraction-6E40C9?style=flat-square)
-![Predictive Modelling](https://img.shields.io/badge/Predictive%20Modelling-6E40C9?style=flat-square)
-![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-6E40C9?style=flat-square)
+**Project Experience**
+
+![OCR](https://img.shields.io/badge/OCR-6E40C9?style=for-the-badge)
+![Tesseract OCR](https://img.shields.io/badge/Tesseract%20OCR-43853D?style=for-the-badge)
+![Information Extraction](https://img.shields.io/badge/Information%20Extraction-6E40C9?style=for-the-badge)
+![Text Normalization](https://img.shields.io/badge/Text%20Normalization-6E40C9?style=for-the-badge)
+![Document Parsing](https://img.shields.io/badge/Document%20Parsing-6E40C9?style=for-the-badge)
+![Document Intelligence](https://img.shields.io/badge/Document%20Intelligence-6E40C9?style=for-the-badge)
+![NLP Fundamentals](https://img.shields.io/badge/NLP%20Fundamentals-6E40C9?style=for-the-badge)
 
 **Foundational / Learning / Exposure**
-![Transformers](https://img.shields.io/badge/Transformers-1f2937?style=flat-square)
-![BERT](https://img.shields.io/badge/BERT-1f2937?style=flat-square)
-![Sentence Embeddings](https://img.shields.io/badge/Sentence%20Embeddings-1f2937?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-1f2937?style=flat-square&logo=huggingface&logoColor=white)
-![Vector Search](https://img.shields.io/badge/Vector%20Search-1f2937?style=flat-square)
-![RAG](https://img.shields.io/badge/Retrieval--Augmented%20Generation-1f2937?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain%20Concepts-1f2937?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-1f2937?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-1f2937?style=flat-square)
-![Redis](https://img.shields.io/badge/Redis%20(Basics)-1f2937?style=flat-square&logo=redis&logoColor=white)
-![Copilot Studio](https://img.shields.io/badge/Copilot%20Studio%20(Exposure)-1f2937?style=flat-square)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI%20Concepts-1f2937?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-1f2937?style=flat-square)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=2&section=header" width="100%"/>
-
-## Featured Projects
-
-### 🧾 Intelligent Document Processing (IDP) System
-`Python` `FastAPI` `Tesseract OCR` `OpenCV` `Pandas` `SQL` `Git`
-
-An end-to-end document intelligence pipeline covering document ingestion, image preprocessing, and OCR-based text extraction. Extracted content passes through information extraction, text normalization, and data cleaning/validation stages to produce structured, analytics-ready output. Exposed via FastAPI REST endpoints with exception handling and logging built in for reliability, feeding downstream reporting and analytics.
-
----
-
-### 🚨 AI-Powered Crowd Density & Emergency Alert System
-`Python` `YOLOv8` `DeepSORT` `LSTM` `OpenCV` `Flask` `MySQL`
-
-Real-time system combining YOLOv8 person detection with DeepSORT object tracking to compute live crowd-density metrics. Time-series features derived from tracking data feed an LSTM model for predictive risk modelling, triggering automated emergency alerts through Flask APIs with MySQL for persistence and real-time data flow.
-
-**Repository:** [Crowd-density-stampede-using-YOLOv8](https://github.com/khushikulkarni-tech/Crowd-density-stampede-using-YOLOv8)
-
----
-
-### 📦 Inventory Management System
-`React` `Supabase` `CRUD` `Authentication`
-
-A full inventory tracking application supporting product management, stock monitoring, and low-stock alerting. Includes sales/order workflows, user authentication, and a protected, role-aware dashboard for managing operations end-to-end.
-
-**Repository:** [inventory-system](https://github.com/khushikulkarni-tech/inventory-system)
-
----
-
-### 📊 Last-Mile Delivery Performance & Delay Risk Analytics Dashboard *(Academic Project)*
-`Python` `SQL/MySQL` `Power BI`
-
-Coursework project focused on logistics analytics: cleaning and transforming raw delivery data, loading it into a structured MySQL database, and engineering features to identify delay-risk patterns. Delivered as an interactive Power BI dashboard for logistics KPI analysis and operational reporting.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=2&section=header" width="100%"/>
-
-## Experience
-
-**Python Full Stack Development Intern** — *PySpiders*
-`January 2026 – June 2026`
-
-- Developed Python-based backend components with REST-style data flows
-- Designed MySQL database schemas and implemented CRUD workflows
-- Built and debugged reusable backend modules following SDLC practices
-- Applied Git-based version control across the development lifecycle
-- Performed testing and debugging to ensure functional reliability
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=2&section=header" width="100%"/>
-
-## Certifications
-
-- 🎓 **Microsoft Power BI Data Analyst Associate (PL-300)**
-- 🎓 **Oracle Cloud Infrastructure 2025 Generative AI Professional**
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=2&section=header" width="100%"/>
-
-## Current Focus
-
-```text
-Python              →  Core language for data & backend engineering
-Data Engineering    →  ETL, pipelines, ingestion, validation
-Data Analytics      →  SQL reporting, dashboarding, BI
-Power BI            →  Dashboard design & business reporting
-Machine Learning    →  Predictive modelling, classification
-NLP                 →  OCR, document intelligence, text extraction
-Transformers / RAG  →  Foundational study, applied use in progress
-Generative AI       →  Prompt engineering, LLM concepts
-AI Automation       →  Agentic workflows, LangChain concepts
-Cloud               →  AWS (S3, IAM, EC2), Azure fundamentals
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=2&section=header" width="100%"/>
-
-## Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khushikulkarni-tech)
-
-<br/>
-
-<sub>Built with a focus on clean data systems, applied AI, and continuous learning in Generative AI engineering.</sub>
-
-</div>
+![Transformers](https://img.shields.io/badge/Transformers-1F2937?style=for-the-badge)
+![BERT](https://img.shields.io/badge/BERT-1F2937?style=for-the-badge)
+![Sentence Embeddings](https://img.shields.io/badge/Sentence%20Embeddings-1F2937?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-1F2937?style=for-the-badge&logo=huggingface&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-1F2937?style=for-the-badge)
+![RAG](https://img.shields.io
